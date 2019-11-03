@@ -1,0 +1,4 @@
+#do not share keys
+#give path of confidencial files which don't have to be shared with everyone
+
+keys.txt
