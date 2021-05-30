@@ -2,3 +2,5 @@ line number 1
 modified line number 2
 line number 3
 mid line 4
+Resolved the solution
+adding the extra lines into it.
